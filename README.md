@@ -4,3 +4,5 @@ This repository contains the bash and R code used to process and analyse the dat
 
 ## References
 - [1] Mossner, M., Colson, C., Guo, Q., Whiting, F., Grant, H., Stafford, A., ... & Graham, T. A. (2025). Single cell multi-omic whole genome sequencing and chromatin accessibility profiling reveals genome-epigenome coevolution in colorectal cancer. bioRxiv, 2025-04.
+  
+**Correspondence:** chloe.colson@icr.ac.uk
