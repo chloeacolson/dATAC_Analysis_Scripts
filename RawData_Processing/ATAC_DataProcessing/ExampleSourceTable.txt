@@ -1,0 +1,4 @@
+i5	i5_ID	i7	i7_ID	index_barcode	sample_name	sample_pool_fq1	sample_pool_fq2	size	well	library
+CCGAACAACA	NXT_i5_SU001	GGACTCCTAT	PCR_i7_P7.S705	CCGAACAACAGGACTCCTAT	Sample_DATAC_A1	path_to_fastqs/Sample_DATAC_A1_1.fq.gz	path_to_fastqs/Sample_DATAC_A1_2.fq.gz	NA	A1	Sample_DATAC
+AAGAATCGGC	NXT_i5_SU002	GGACTCCTAT	PCR_i7_P7.S705	AAGAATCGGCGGACTCCTAT	Sample_DATAC_A2	path_to_fastqs/Sample_DATAC_A2_1.fq.gz	path_to_fastqs/Sample_DATAC_A2_2.fq.gz	NA	A2	Sample_DATAC
+CACTTCGCTT	NXT_i5_SU003	GGACTCCTAT	PCR_i7_P7.S705	CACTTCGCTTGGACTCCTAT	Sample_DATAC_A3	path_to_fastqs/Sample_DATAC_A3_1.fq.gz	path_to_fastqs/Sample_DATAC_A3_2.fq.gz	NA	A3	Sample_DATAC

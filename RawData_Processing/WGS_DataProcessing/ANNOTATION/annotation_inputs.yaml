@@ -1,0 +1,5 @@
+hmmcopy_metrics: path_to_HMMCOPY_output/Sample_hmmcopy_metrics.csv.gz
+hmmcopy_reads: path_to_HMMCOPY_output/Sample_reads.csv.gz
+alignment_metrics: path_to_ALIGN_output/alignment_metrics.csv.gz
+gc_metrics: path_to_ALIGN_output/gc_metrics.csv.gz
+segs_pdf_tar: path_to_HMMCOPY_output/Sample_segs.tar.gz
