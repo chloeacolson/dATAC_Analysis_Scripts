@@ -14,7 +14,6 @@ srun hostname
 #unset DISPLAY
 
 module load anaconda
-source /opt/software/applications/anaconda/3/etc/profile.d/conda.sh
 
 conda init
 conda activate dataprocessing # this conda environment contains ultraplex 
