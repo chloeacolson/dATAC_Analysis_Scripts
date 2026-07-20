@@ -11,18 +11,7 @@
 # load necessary tools and packages
 srun hostname
 
-
 unset DISPLAY
-
-# module load anaconda
-# source /opt/software/applications/anaconda/3/etc/profile.d/conda.sh
-# 
-# conda init
-# conda activate dataprocessing
-
-# module load java/1.8.0_261
-# module load SAMtools
-# 
 
 ##############################################################################
 # setup folders and samples
