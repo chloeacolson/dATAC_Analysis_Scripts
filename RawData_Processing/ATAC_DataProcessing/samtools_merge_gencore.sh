@@ -10,12 +10,11 @@
 # load necessary tools and packages
 srun hostname
 
-source /opt/software/applications/anaconda/3/etc/profile.d/conda.sh
+module load anaconda
 
 conda init
 conda activate dataprocessing
 
-module load anaconda
 module load java/1.8.0_261
 module load SAMtools
 
